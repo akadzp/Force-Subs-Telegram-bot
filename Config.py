@@ -11,12 +11,12 @@ class Config():
     SUDO_USERS.append(939425014)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "5621781984:AAGselM2HkhmSEKmD3D6oA1Y1zi3yHVV1T0"
+    DATABASE_URL = "https://github.com/akadzp/Force-Subs-Telegram-bot"
+    APP_ID = "18160825"
+    API_HASH = "cb8dd3d2b0d555d325cc3ddb76233cab"
     SUDO_USERS = list(set(int(x) for x in ''.split()))
-    SUDO_USERS.append(939425014)
+    SUDO_USERS.append(526288065)
     SUDO_USERS = list(set(SUDO_USERS))
 
 
